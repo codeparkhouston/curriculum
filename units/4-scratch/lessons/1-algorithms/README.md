@@ -4,7 +4,7 @@
 
 ## Before class
 ---
-###Teacher Preperation
+###Teacher Preparation
 * A basic understanding of Scratch. Teacher should be familiar with motion, looks, control and event blocks. 
 
 

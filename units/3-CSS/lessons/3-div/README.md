@@ -3,7 +3,7 @@
 
 ## Before class
 ---
-###Teacher Preperation
+###Teacher Preparation
 * The teacher should become familiar with dash.ga.co project 3, section 1. Walking through this project should take an experienced html user 15 minutes. 
 
 * Review what was covered last lesson to understand the level of skill students have with HTML. 
