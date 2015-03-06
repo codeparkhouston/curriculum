@@ -4,7 +4,7 @@
 
 ## Before class
 ---
-###Teacher Preperation
+###Teacher Preparation
 * Review what was covered last lesson to understand the level of skill students have with HTML. 
 
 

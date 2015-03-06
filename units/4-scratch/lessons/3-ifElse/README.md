@@ -4,7 +4,7 @@
 
 ## Before class
 ---
-###Teacher Preperation
+###Teacher Preparation
 * A further understanding of Scratch. Teacher should be familiar with control, sensing and data blocks.
 * The teacher should create a two variable MadLibs program with a logic condition before entering the classroom.
 

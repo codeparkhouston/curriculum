@@ -3,7 +3,7 @@
 
 ## Before class
 ---
-###Teacher Preperation
+###Teacher Preparation
 * The teacher must sign up for a free account with Cloud9 IDE. Familiarize yourself with the environment. 
 * The teacher should create a webpage with some text and 2 pictures on Cloud9 IDE.
 * Review what was covered last lesson to understand the level of skill students have with HTML. 

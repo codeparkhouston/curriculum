@@ -5,7 +5,7 @@
 
 ## Before class
 ---
-###Teacher Preperation
+###Teacher Preparation
 * The teacher should have the html from project 2 on dash.ga.co uploaded to Cloud9
 
 
